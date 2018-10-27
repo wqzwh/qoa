@@ -1,0 +1,26 @@
+{
+  "name": "qoa",
+  "version": "0.0.1",
+  "description": "simple koa",
+  "main": "qoa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wqzwh/qoa.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "wangqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wqzwh/qoa/issues"
+  },
+  "homepage": "https://github.com/wqzwh/qoa#readme",
+  "engines": {
+    "node": ">= 7.6.0",
+    "npm": ">= 5.6.0"
+  }
+}
