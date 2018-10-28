@@ -8,7 +8,7 @@
 
 ## 实现功能
 
-主要依据`koa`官网介绍，基本实现以下几个功能
+主要依据`koa`官网介绍，实现简易核心功能，基本实现以下几个功能
 
 - [ ] use
 - [ ] listen
@@ -18,3 +18,13 @@
 - [ ] 错误处理
 - [ ] response
 - [ ] Request
+- [ ] Middleware
+- [ ] next
+
+## demo测试
+
+运行`test`文件夹下的js文件即可
+
+## 总结Koa相关api介绍
+
+<img src="https://github.com/wqzwh/qoa/raw/master/doc/koa2.png?raw=true" style="max-width:100%;">
