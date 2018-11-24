@@ -44,7 +44,7 @@ module.exports = class Application {
     const ctx = Object.create(this.context)
     const request = ctx.request = Object.create(this.request)
     const response = ctx.response = Object.create(this.response)
-    context.app = request.app = response.app = this
+    ctx.app = request.app = response.app = this
     ctx.req = request.req = response.req = req
     ctx.res = request.res = response.res = res
     return ctx
